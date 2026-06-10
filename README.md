@@ -1,4 +1,4 @@
-# Cfx-Sentinel Ultra (v1.0.0)
+# Cfx-Sentinel (v1.0.0)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Cfx.re%20%2F%20FiveM-orange.svg)](https://fivem.net)
