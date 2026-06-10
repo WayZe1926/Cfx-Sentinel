@@ -4,7 +4,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Cfx.re%20%2F%20FiveM-orange.svg)](https://fivem.net)
 [![Lua Version](https://img.shields.io/badge/Lua-5.4%20%E2%9C%94-brightgreen.svg)](https://www.lua.org)
 
-**Cfx-Sentinel Ultra** is an advanced, production-grade DevOps utility and runtime security firewall engineered specifically for high-performance FiveM servers. It introduces ultra-low-overhead asynchronous thread profiling, polymorphic cryptographic payload salting, and hard-virtualized environmental runtime checks inside the Lua 5.4 VM.
+**Cfx-Sentinel** is an advanced, production-grade DevOps utility and runtime security firewall engineered specifically for high-performance FiveM servers. It introduces ultra-low-overhead asynchronous thread profiling, polymorphic cryptographic payload salting, and hard-virtualized environmental runtime checks inside the Lua 5.4 VM.
 
 Unlike traditional anti-cheats that rely on signature detection or aggressive game-native loops, Cfx-Sentinel Ultra protects the server at the application logic layer, transforming basic network handling into a bulletproof, zero-allocation pipeline.
 
